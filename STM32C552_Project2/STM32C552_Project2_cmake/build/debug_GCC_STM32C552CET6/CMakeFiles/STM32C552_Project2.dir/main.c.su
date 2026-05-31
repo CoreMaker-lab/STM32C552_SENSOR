@@ -1,0 +1,11 @@
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/arch/cmsis/CMSIS/Core/Include/core_cm33.h:2692:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:664:22:LL_FLASH_SetUnlockKey	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:679:22:LL_FLASH_OB_SetUnlockKey	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:774:22:LL_FLASH_OB_Lock	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:786:26:LL_FLASH_OB_IsLocked	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1103:22:LL_FLASH_Lock	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1115:26:LL_FLASH_IsLocked	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1918:22:LL_FLASH_OB_SetBoot0SourceSelection	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1932:26:LL_FLASH_OB_GetBoot0SourceSelection	16	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/main.c:27:13:Configure_BOOT_SEL	24	static
+E:/STM32/STM32C552_Project2/STM32C552_Project2_cmake/main.c:150:5:main	8	static
