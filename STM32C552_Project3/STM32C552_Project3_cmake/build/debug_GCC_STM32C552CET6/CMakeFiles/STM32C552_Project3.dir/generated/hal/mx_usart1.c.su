@@ -1,0 +1,12 @@
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:877:22:LL_AHB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2325:22:LL_APB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2403:22:LL_APB2_GRP1_DisableClock	40	static,ignoring_inline_asm
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2434:22:LL_APB2_GRP1_ForceReset	16	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2465:22:LL_APB2_GRP1_ReleaseReset	16	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1354:22:HAL_RCC_GPIOA_EnableClock	8	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:2134:22:HAL_RCC_USART1_EnableClock	8	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:2204:22:HAL_RCC_USART1_DisableClock	8	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:3613:22:HAL_RCC_USART1_Reset	8	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/generated/hal/mx_usart1.c:37:20:mx_usart1_uart_init	40	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/generated/hal/mx_usart1.c:91:6:mx_usart1_uart_deinit	8	static
+E:/STM32/STM32C552_Project3/STM32C552_Project3_cmake/generated/hal/mx_usart1.c:102:20:mx_usart1_uart_gethandle	4	static
